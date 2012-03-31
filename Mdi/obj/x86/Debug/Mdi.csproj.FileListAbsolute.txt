@@ -1,0 +1,12 @@
+c:\users\home48\documents\visual studio 2010\Projects\Mdi\Mdi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\home48\documents\visual studio 2010\Projects\Mdi\Mdi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\home48\documents\visual studio 2010\Projects\Mdi\Mdi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Debug\WordNote™.exe.manifest
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Debug\WordNote™.application
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Debug\WordNote™.exe
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Debug\WordNote™.pdb
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Debug\WordNote™.exe.manifest
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Debug\WordNote™.application
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Debug\WordNote™.exe
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Debug\WordNote™.pdb
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Debug\WordNote.Properties.Resources.resources

@@ -1,0 +1,25 @@
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Release\WordNote™.exe.manifest
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Release\WordNote™.application
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Release\WordNote™.exe
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Release\WordNote™.pdb
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Release\WordNote™.exe.manifest
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Release\WordNote™.application
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Release\WordNote™.exe
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Release\WordNote™.pdb
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\obj\x86\Release\WordNote.Properties.Resources.resources
+C:\Users\Home48\Documents\Visual Studio 2010\Projects\Mdi\Mdi\bin\Release\WordNote™.exe.config
+D:\Sunnie\Projects\Mdi\Mdi\bin\Release\WordNote™.exe.config
+D:\Sunnie\Projects\Mdi\Mdi\obj\x86\Release\WordNote™.exe
+D:\Sunnie\Projects\Mdi\Mdi\obj\x86\Release\WordNote™.pdb
+D:\Sunnie\Projects\Mdi\Mdi\obj\x86\Release\Mdi.csprojResolveAssemblyReference.cache
+D:\Sunnie\Projects\Mdi\Mdi\obj\x86\Release\WordNote.Properties.Resources.resources
+D:\Sunnie\Projects\Mdi\Mdi\obj\x86\Release\Mdi.csproj.GenerateResource.Cache
+D:\Sunnie\Projects\Mdi\Mdi\bin\Release\WordNote™.exe.manifest
+D:\Sunnie\Projects\Mdi\Mdi\bin\Release\WordNote™.application
+D:\Sunnie\Projects\Mdi\Mdi\bin\Release\WordNote™.exe
+D:\Sunnie\Projects\Mdi\Mdi\bin\Release\WordNote™.pdb
+D:\Sunnie\Projects\Mdi\Mdi\obj\x86\Release\WordNote™.exe.manifest
+D:\Sunnie\Projects\Mdi\Mdi\obj\x86\Release\WordNote™.application
